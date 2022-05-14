@@ -1,0 +1,10 @@
+.wrap{
+    background-color: salmon;
+    position: absolute;
+    top: 1000px;
+}
+
+button{
+    position: absolute;
+    bottom: 500px;
+}

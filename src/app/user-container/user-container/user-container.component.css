@@ -1,0 +1,6 @@
+.wrap{
+    background-color: paleturquoise;
+    width: 100%;
+    height: 1000px;
+    display: flex;
+}

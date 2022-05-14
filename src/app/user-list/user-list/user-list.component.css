@@ -1,0 +1,12 @@
+.wrap{
+    background-color: green;
+    width: 1000px;
+    height: 900px;
+    position: relative;
+    top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}

@@ -1,0 +1,15 @@
+.wrap{
+    background-color: yellow;
+    width: 500px;
+    height: 900px;
+    position: relative;
+    left: 752px;
+    top: -10px;
+}
+
+
+button{
+    position: relative;
+    top: 450px;
+    left: 200px;
+}
